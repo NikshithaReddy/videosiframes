@@ -1,0 +1,25 @@
+.container{
+    text-align: center;
+    background:linear-gradient(to right,#6cc5d4,#aed664);
+    height: 100%;
+    padding-top: 50px;
+    width:1380px;
+    
+}
+
+
+body h1{
+    color:white;
+    text-shadow: rgb(221, 13, 13);
+    font-style: normal;
+    background-color: rgb(144, 87, 219);
+    text-align: center;
+}
+.responsive-iframe{
+    border-radius: 20px ;
+    border-style: solid;
+    height: 180px;
+    
+
+}
+   
